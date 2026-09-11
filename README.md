@@ -233,3 +233,6 @@ This repository serves as the official landing page for Celestia. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Celestia today!**
+
+---
+**Last updated:** 2026-09-11 16:21:37 UTC
