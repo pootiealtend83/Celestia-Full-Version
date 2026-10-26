@@ -235,4 +235,4 @@ This repository serves as the official landing page for Celestia. The software i
 **Get the most recent version of Celestia today!**
 
 ---
-**Last updated:** 2026-10-26 12:47:51 UTC
+**Last updated:** 2026-10-26 19:08:54 UTC
